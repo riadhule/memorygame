@@ -1,7 +1,7 @@
 # memorygame
 A memory game that tests user's visual memory
 
-![main]("C:\Users\ria_d\Downloads\Untitled presentation (17).jpg")
+![main](Untitled presentation (17).jpg)
 
 Tools: 
 Kotlin - Android Studio 
